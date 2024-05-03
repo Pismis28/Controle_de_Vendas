@@ -1,0 +1,66 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Home Page";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centralizar Formulário</title>
+    <!-- Adicionando Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Definição da cor de fundo */
+        body {
+            background-color: #ADD8E6; /* Altere para a cor desejada */
+        }
+
+        <div class="text-center" >
+        <h1 class="display-4" > <strong > Controlling your business</strong > </h1 >
+        </div >
+
+        /* Estilos adicionais, se necessário */
+        .centralizar-vertical {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .formulario-container {
+            padding-top: 20px;
+        }
+
+        form {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container centralizar-vertical">
+        <div class="formulario-container">
+            <form>
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label"><strong>Email</strong></label>
+                    <input type="email" class="form-control mx-auto" id="exampleInputEmail1" aria-describedby="emailHelp" style="width: 200px;">
+                    <div id="emailHelp" class="form-text">Entre com seu email corporativo</div>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label"><strong>Senha</strong></label>
+                    <input type="password" class="form-control mx-auto" id="exampleInputPassword1" style="width: 200px;">
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+
+
+
