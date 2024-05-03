@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\views\\vendedors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\vendedors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\views\\vendas2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\vendas2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\views\\administradors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\administradors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\controllers\\vendas2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\controllers\\vendas2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Migrations\\20240503125415_update3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controle de vendas\\Migrations\\20240503125415_update3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\controllers\\administradorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\controllers\\administradorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\views\\administradors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\administradors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Migrations\\20240502185740_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controle de vendas\\Migrations\\20240502185740_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\models\\nivelacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\models\\nivelacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\controllers\\vendedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\controllers\\vendedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Migrations\\20240502180146_upadte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controle de vendas\\Migrations\\20240502180146_upadte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Migrations\\20240502173731_primeiraMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controle de vendas\\Migrations\\20240502173731_primeiraMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\controllers\\vendas1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\controllers\\vendas1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\onedrive - avanade\\desktop\\decola-tech\\vendas\\controle de vendas\\views\\administrador\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\administrador\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Controle de vendas\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T17:52:36.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Models\\Venda.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Models\\Venda.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Models\\Venda.cs",
+              "RelativeToolTip": "Controle de vendas\\Models\\Venda.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:27:31.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Administradors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Administradors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Administradors\\Index.cshtml",
+              "RelativeToolTip": "Controle de vendas\\Views\\Administradors\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAwDsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T23:14:35.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Controle de vendas\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswDkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T18:19:18.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Controle de vendas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T14:03:53.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Vendas2\\Index.cshtml",
+              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Vendas2\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Vendas2\\Index.cshtml",
+              "RelativeToolTip": "Controle de vendas\\Views\\Vendas2\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAwDsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:08:50.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Vendedors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Vendedors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Vendedors\\Index.cshtml",
+              "RelativeToolTip": "Controle de vendas\\Views\\Vendedors\\Index.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAswEEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:09:41.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Controle de vendas\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:11:46.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240503125415_update3.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Migrations\\20240503125415_update3.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Migrations\\20240503125415_update3.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Migrations\\20240503125415_update3.cs",
+              "RelativeToolTip": "Controle de vendas\\Migrations\\20240503125415_update3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:54:15.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vendas2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controllers\\Vendas2Controller.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Controllers\\Vendas2Controller.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controllers\\Vendas2Controller.cs",
+              "RelativeToolTip": "Controle de vendas\\Controllers\\Vendas2Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:01:21.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Models\\Vendedor.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Models\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Models\\Vendedor.cs",
+              "RelativeToolTip": "Controle de vendas\\Models\\Vendedor.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:03:22.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VendasController.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controllers\\VendasController.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Controllers\\VendasController.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controllers\\VendasController.cs",
+              "RelativeToolTip": "Controle de vendas\\Controllers\\VendasController.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:39:21.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdministradorsController.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controllers\\AdministradorsController.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Controllers\\AdministradorsController.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controllers\\AdministradorsController.cs",
+              "RelativeToolTip": "Controle de vendas\\Controllers\\AdministradorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:53:21.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Models\\Administrador.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Models\\Administrador.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Models\\Administrador.cs",
+              "RelativeToolTip": "Controle de vendas\\Models\\Administrador.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA4wBIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:52:19.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Administradors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Administradors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Administradors\\Create.cshtml",
+              "RelativeToolTip": "Controle de vendas\\Views\\Administradors\\Create.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T12:46:22.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Models\\Cliente.cs",
+              "RelativeToolTip": "Controle de vendas\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:05:28.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240502185740_update2.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Migrations\\20240502185740_update2.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Migrations\\20240502185740_update2.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Migrations\\20240502185740_update2.cs",
+              "RelativeToolTip": "Controle de vendas\\Migrations\\20240502185740_update2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:57:41.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VendedorsController.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controllers\\VendedorsController.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Controllers\\VendedorsController.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controllers\\VendedorsController.cs",
+              "RelativeToolTip": "Controle de vendas\\Controllers\\VendedorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:59:09.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NivelAcesso.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Models\\NivelAcesso.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Models\\NivelAcesso.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Models\\NivelAcesso.cs",
+              "RelativeToolTip": "Controle de vendas\\Models\\NivelAcesso.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:35:30.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240502180146_upadte1.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Migrations\\20240502180146_upadte1.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Migrations\\20240502180146_upadte1.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Migrations\\20240502180146_upadte1.cs",
+              "RelativeToolTip": "Controle de vendas\\Migrations\\20240502180146_upadte1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:01:46.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Vendas1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controllers\\Vendas1Controller.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Controllers\\Vendas1Controller.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controllers\\Vendas1Controller.cs",
+              "RelativeToolTip": "Controle de vendas\\Controllers\\Vendas1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:15:13.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240502173731_primeiraMigration.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Migrations\\20240502173731_primeiraMigration.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Migrations\\20240502173731_primeiraMigration.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Migrations\\20240502173731_primeiraMigration.cs",
+              "RelativeToolTip": "Controle de vendas\\Migrations\\20240502173731_primeiraMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:37:31.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controle de vendas\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:30:34.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Funcionarios.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Administrador\\Funcionarios.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Administrador\\Funcionarios.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Views\\Administrador\\Funcionarios.cs",
+              "RelativeToolTip": "Controle de vendas\\Views\\Administrador\\Funcionarios.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:05:47.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VendedorController.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controllers\\VendedorController.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Controllers\\VendedorController.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controllers\\VendedorController.cs",
+              "RelativeToolTip": "Controle de vendas\\Controllers\\VendedorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:38:08.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
