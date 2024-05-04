@@ -6,6 +6,8 @@ namespace Controle_de_vendas.Models
     {
         public int VendedorID { get; set; }
 
+        public string? Acesso { get; set; }
+
         [Display(Name= "Nome")]
         [Required]
         public string? VendedorName { get; set; }

@@ -7843,11 +7843,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controle de vendas.csproj",
+      "projectUniqueName": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\Controle de vendas.csproj",
       "projectName": "Controle de vendas",
-      "projectPath": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\Controle de vendas.csproj",
+      "projectPath": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\Controle de vendas.csproj",
       "packagesPath": "C:\\Users\\tiemi.imayoshi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tiemi.imayoshi\\OneDrive - Avanade\\Desktop\\Decola-Tech\\Vendas\\Controle de vendas\\obj\\",
+      "outputPath": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tiemi.imayoshi\\AppData\\Roaming\\NuGet\\NuGet.Config",

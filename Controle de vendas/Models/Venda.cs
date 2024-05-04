@@ -6,6 +6,8 @@ namespace Controle_de_vendas.Models
     {
         public int Id { get; set; }
 
+        public string? Acesso { get; set; }
+
         public string? Produto { get; set; }
 
         [Display (Name = "ID do funcionário")]
