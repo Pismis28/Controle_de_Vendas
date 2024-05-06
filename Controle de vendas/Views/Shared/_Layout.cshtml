@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-white bg-black border-bottom box-shadow mb-3">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Controle_de_vendas</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -21,25 +21,25 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Vendedors" asp-action="Index">Vendedor</a>
+                            <a class="nav-link text-white" asp-area="" asp-controller="Vendedors" asp-action="Index">Vendedor</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Vendas2" asp-action="Index">Vendas</a>
+                            <a class="nav-link text-white" asp-area="" asp-controller="Vendas2" asp-action="Index">Vendas</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Administradors" asp-action="Index">Administrador</a>
+                            <a class="nav-link text-white" asp-area="" asp-controller="Administradors" asp-action="Index">Administrador</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Clientes" asp-action="Index">Clientes</a>
+                            <a class="nav-link text-white" asp-area="" asp-controller="Clientes" asp-action="Index">Clientes</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="NivelAcesso" asp-action="Index">Restrito</a>
+                            <a class="nav-link text-white" asp-area="" asp-controller="NivelAcesso" asp-action="Index">Restrito</a>
                         </li>
                     </ul>
                 </div>
@@ -51,17 +51,22 @@
             @RenderBody()
         </main>
     </div>
-    <div class="fixo-bottom">
-        <i class="bi bi-facebook"></i>
-        <i class="bi bi-twitter"></i>
-        <i class="bi bi-instagram"></i>
-    </div>
+    
 
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2024 - Controle_de_vendas - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+    <div class="fixo-bottom d-flex justify-content-center align-items-center">
+        <a href="URL_TO_FACEBOOK_PROFILE" class="text-primary"><i class="bi bi-facebook fs-3 text-primary"></i></a>
+        <span style="margin: 0 10px;"></span>
+        <a href="URL_TO_TWITTER_PROFILE" class="text-decoration-none"><i class="bi bi-twitter fs-3 text-info"></i></a>
+        <span style="margin: 0 10px;"></span>
+        <a href="URL_TO_INSTAGRAM_PROFILE" class="text-decoration-none"><i class="bi bi-instagram fs-3" style="color: #FD1D1D;"></i></a>
+    </div>
+
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

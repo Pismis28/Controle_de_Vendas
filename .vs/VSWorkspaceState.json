@@ -3,8 +3,9 @@
     "",
     "\\Controle de vendas",
     "\\Controle de vendas\\Views",
+    "\\Controle de vendas\\Views\\NivelAcesso",
     "\\Controle de vendas\\Views\\Shared"
   ],
-  "SelectedNode": "\\Controle de vendas\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\Controle de vendas\\Controle de vendas.csproj",
   "PreviewInSolutionExplorer": false
 }

@@ -17,5 +17,7 @@ namespace Controle_de_vendas.Models
         public int Quantidade { get; set; }
 
         public decimal Valor { get; set; }
+
+        
     }
 }

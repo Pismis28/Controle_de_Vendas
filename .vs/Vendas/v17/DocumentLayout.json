@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\views\\vendedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\vendedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Migrations\\20240504001001_update9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controle de vendas\\Migrations\\20240504001001_update9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\controllers\\vendedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\controllers\\vendedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\views\\administradors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\administradors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\views\\vendedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\vendedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\views\\vendedors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\vendas2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -53,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\views\\nivelacesso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\nivelacesso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -99,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\views\\administradors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\controllers\\vendedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\controllers\\vendedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -137,6 +137,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Controllers\\VendedorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controle de vendas\\Controllers\\VendedorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|c:\\users\\tiemi.imayoshi\\source\\repos\\controle_de_vendas\\controle de vendas\\migrations\\20240504001001_update9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE6858-1427-412F-8460-9DDB13B7E94B}|Controle de vendas\\Controle de vendas.csproj|solutionrelative:controle de vendas\\migrations\\20240504001001_update9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -146,37 +150,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240504001001_update9.cs",
-              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Migrations\\20240504001001_update9.cs",
-              "RelativeDocumentMoniker": "Controle de vendas\\Migrations\\20240504001001_update9.cs",
-              "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Migrations\\20240504001001_update9.cs",
-              "RelativeToolTip": "Controle de vendas\\Migrations\\20240504001001_update9.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "VendedorsController.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Controllers\\VendedorsController.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Controllers\\VendedorsController.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Controllers\\VendedorsController.cs",
+              "RelativeToolTip": "Controle de vendas\\Controllers\\VendedorsController.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJ0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T00:10:01.676Z",
+              "WhenOpened": "2024-05-02T17:59:09.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Index.cshtml",
-              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Index.cshtml",
-              "RelativeToolTip": "Controle de vendas\\Views\\Index.cshtml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Controle de vendas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswEAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T18:48:12.881Z",
+              "WhenOpened": "2024-05-02T14:03:53.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Vendedors\\Index.cshtml",
               "RelativeDocumentMoniker": "Controle de vendas\\Views\\Vendedors\\Index.cshtml",
@@ -184,51 +188,50 @@
               "RelativeToolTip": "Controle de vendas\\Views\\Vendedors\\Index.cshtml",
               "ViewState": "AQIAADoAAAAAAAAAAAAswEoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T13:09:41.638Z",
+              "WhenOpened": "2024-05-03T13:09:41.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Controle de vendas\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:11:46.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Administrador.cs",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Models\\Administrador.cs",
               "RelativeDocumentMoniker": "Controle de vendas\\Models\\Administrador.cs",
               "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Models\\Administrador.cs",
               "RelativeToolTip": "Controle de vendas\\Models\\Administrador.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAA2wAgAAAAIAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwA4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T12:52:19.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "Controle de vendas\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Models\\Cliente.cs",
-              "RelativeToolTip": "Controle de vendas\\Models\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T17:05:28.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Venda.cs",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Models\\Venda.cs",
               "RelativeDocumentMoniker": "Controle de vendas\\Models\\Venda.cs",
               "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Models\\Venda.cs",
               "RelativeToolTip": "Controle de vendas\\Models\\Venda.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAArAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T13:27:31.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Vendedors\\Create.cshtml",
               "RelativeDocumentMoniker": "Controle de vendas\\Views\\Vendedors\\Create.cshtml",
@@ -242,6 +245,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Models\\Cliente.cs",
+              "RelativeToolTip": "Controle de vendas\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:05:28.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Administradors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Administradors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Administradors\\Edit.cshtml",
+              "RelativeToolTip": "Controle de vendas\\Views\\Administradors\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T00:47:32.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Index.cshtml",
+              "RelativeToolTip": "Controle de vendas\\Views\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T18:48:12.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240504001001_update9.cs",
+              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Migrations\\20240504001001_update9.cs",
+              "RelativeDocumentMoniker": "Controle de vendas\\Migrations\\20240504001001_update9.cs",
+              "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Migrations\\20240504001001_update9.cs",
+              "RelativeToolTip": "Controle de vendas\\Migrations\\20240504001001_update9.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:10:01.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Vendas2\\Index.cshtml",
               "RelativeDocumentMoniker": "Controle de vendas\\Views\\Vendas2\\Index.cshtml",
@@ -249,12 +301,11 @@
               "RelativeToolTip": "Controle de vendas\\Views\\Vendas2\\Index.cshtml",
               "ViewState": "AQIAADQAAAAAAAAAAAAswEQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T13:08:50.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T13:08:50.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Vendedor.cs",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Models\\Vendedor.cs",
               "RelativeDocumentMoniker": "Controle de vendas\\Models\\Vendedor.cs",
@@ -262,25 +313,11 @@
               "RelativeToolTip": "Controle de vendas\\Models\\Vendedor.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T13:03:22.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T13:03:22.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Controle de vendas\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAswCsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T13:11:46.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Clientes\\Index.cshtml",
               "RelativeDocumentMoniker": "Controle de vendas\\Views\\Clientes\\Index.cshtml",
@@ -288,12 +325,11 @@
               "RelativeToolTip": "Controle de vendas\\Views\\Clientes\\Index.cshtml",
               "ViewState": "AQIAAEEAAAAAAAAAAAAswFEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T18:19:18.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T18:19:18.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Administradors\\Index.cshtml",
               "RelativeDocumentMoniker": "Controle de vendas\\Views\\Administradors\\Index.cshtml",
@@ -301,25 +337,11 @@
               "RelativeToolTip": "Controle de vendas\\Views\\Administradors\\Index.cshtml",
               "ViewState": "AQIAADoAAAAAAAAAAAAAAEYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T17:53:05.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T17:53:05.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Controle de vendas\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Controle de vendas\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T14:03:53.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Controle de vendas\\Views\\_ViewImports.cshtml",
@@ -331,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\NivelAcesso\\Index.cshtml",
               "RelativeDocumentMoniker": "Controle de vendas\\Views\\NivelAcesso\\Index.cshtml",
@@ -339,12 +361,11 @@
               "RelativeToolTip": "Controle de vendas\\Views\\NivelAcesso\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAswBAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T16:39:06.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T16:39:06.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AdministradorsController.cs",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Controllers\\AdministradorsController.cs",
               "RelativeDocumentMoniker": "Controle de vendas\\Controllers\\AdministradorsController.cs",
@@ -356,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Controle de vendas\\Views\\Home\\Privacy.cshtml",
@@ -368,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\appsettings.json",
               "RelativeDocumentMoniker": "Controle de vendas\\appsettings.json",
@@ -380,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Controle de vendas\\Views\\_ViewStart.cshtml",
@@ -392,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controle de vendas\\Controllers\\HomeController.cs",
@@ -404,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Clientes\\Create.cshtml",
               "RelativeDocumentMoniker": "Controle de vendas\\Views\\Clientes\\Create.cshtml",
@@ -416,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "NivelAcessoController.cs",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Controllers\\NivelAcessoController.cs",
               "RelativeDocumentMoniker": "Controle de vendas\\Controllers\\NivelAcessoController.cs",
@@ -440,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Vendas2Controller.cs",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Controllers\\Vendas2Controller.cs",
               "RelativeDocumentMoniker": "Controle de vendas\\Controllers\\Vendas2Controller.cs",
@@ -464,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Views\\Administradors\\Create.cshtml",
               "RelativeDocumentMoniker": "Controle de vendas\\Views\\Administradors\\Create.cshtml",
@@ -485,18 +506,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T18:57:41.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "VendedorsController.cs",
-              "DocumentMoniker": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Controllers\\VendedorsController.cs",
-              "RelativeDocumentMoniker": "Controle de vendas\\Controllers\\VendedorsController.cs",
-              "ToolTip": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Controllers\\VendedorsController.cs",
-              "RelativeToolTip": "Controle de vendas\\Controllers\\VendedorsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T17:59:09.874Z"
             },
             {
               "$type": "Document",

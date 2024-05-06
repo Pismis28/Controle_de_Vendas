@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WaF4i8nB0e6TyWmaKpmbLx72Wirt+EcTtN+OBQ6AZrw=",
+  "Hash": "/KkRcg3cK58HqHj78OOSJlzHZ8Gz2NhrOCk2cb0MhUQ=",
   "Source": "Controle de vendas",
   "BasePath": "_content/Controle de vendas",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Controle de vendas.styles.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Controle de vendas.styles.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Controle de vendas",
       "RelativePath": "Controle de vendas.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Controle de vendas.styles.css"
+      "OriginalItemSpec": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Controle de vendas.styles.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Controle de vendas.bundle.scp.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Controle de vendas.bundle.scp.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Controle de vendas",
       "RelativePath": "Controle de vendas.bundle.scp.css",
       "AssetKind": "All",
@@ -52,10 +52,10 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Controle de vendas.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Controle de vendas.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\css\\site.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -74,7 +74,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\favicon.ico",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -93,7 +93,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\js\\site.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -112,7 +112,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -131,7 +131,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -150,7 +150,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -169,7 +169,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -188,7 +188,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -207,7 +207,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -226,7 +226,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -245,7 +245,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -264,7 +264,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -283,7 +283,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -302,7 +302,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -321,7 +321,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -340,7 +340,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -359,7 +359,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -378,7 +378,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -397,7 +397,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -416,7 +416,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -435,7 +435,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -454,7 +454,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -473,7 +473,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -492,7 +492,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -511,7 +511,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -530,7 +530,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -549,7 +549,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -568,7 +568,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -587,7 +587,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -606,7 +606,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -625,7 +625,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -644,7 +644,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -663,7 +663,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -682,7 +682,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -701,7 +701,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -720,7 +720,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -739,7 +739,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -758,7 +758,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -777,7 +777,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -796,7 +796,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -815,7 +815,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -834,7 +834,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -853,7 +853,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -872,7 +872,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -891,7 +891,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -910,7 +910,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -929,7 +929,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -948,7 +948,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -967,7 +967,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -986,7 +986,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -1005,7 +1005,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -1024,7 +1024,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -1043,7 +1043,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -1062,7 +1062,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -1081,7 +1081,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -1100,7 +1100,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -1119,7 +1119,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -1138,7 +1138,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -1157,7 +1157,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",
@@ -1176,7 +1176,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Controle de vendas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\wwwroot\\",

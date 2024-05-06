@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eQTWtwqm61stkcwjpL0Y7OA/DooNihvn4pIYLMPiP/cnkuflekECOMq/U5LI28+0MjBN+D6+mn1ediiivi3Ddw==",
+  "dgSpecHash": "1cdr3WQw/mmp6jlakhA8barNn702mlDCyWBjE86nACX58Mh4Pa91caiaC0chaGXKBMd+y5AlQnllozZE6/BVdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiemi.imayoshi\\Source\\Repos\\Controle_de_Vendas\\Controle de vendas\\Controle de vendas.csproj",
+  "projectFilePath": "C:\\Users\\tiemi.imayoshi\\source\\repos\\Controle_de_Vendas\\Controle de vendas\\Controle de vendas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiemi.imayoshi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\tiemi.imayoshi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
